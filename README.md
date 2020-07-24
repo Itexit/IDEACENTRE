@@ -1,10 +1,10 @@
 # IDEACENTRE
 boot your Lenovo Ideacentre as an IMac
 How to:
-Initialize your USB
-Mount the EFI partition
-Hit the CODE button
-Download the zip
-unpack..
-copy and paste the EFI folder in your USB
-reboot..
+1) Initialize your USB
+2) Mount the EFI partition
+3) Hit the CODE button
+4) Download the zip
+5) unpack..
+6) copy and paste the EFI folder in your USB
+7) reboot.. & enjoy
