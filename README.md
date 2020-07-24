@@ -1,5 +1,5 @@
 # IDEACENTRE
-boot your Lenovo Ideacentre as an IMac
+boot your Lenovo Ideacentre (Skylake) as an IMac
 How to:
 1) Initialize your USB
 2) Mount the EFI partition
